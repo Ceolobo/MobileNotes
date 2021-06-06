@@ -1,3 +1,0 @@
-# MobileNotes
-
-Testing with GitJournal
